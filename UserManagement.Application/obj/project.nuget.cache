@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0gBslDVpdfMjOwQulWLevO8QI/nqelr8ySpesdH0h//oPxg5m9lZCFjQRbtVxAkZwNwxqNkbAu+iGyJwhViow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\E P A M\\source\\repos\\UserManagement.API\\UserManagement.Application\\UserManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E P A M\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\E P A M\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\E P A M\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\E P A M\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\E P A M\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\E P A M\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
